@@ -1,0 +1,2 @@
+Il commence par isabel, isabel n'est pas parent. On revient en arrière et on unifie F avec Anne.
+anne est parent de pierre, jean est parent de pierre. On a bien que anne n'est pas pierre mais pierre n'est pas décédé. On revient en arrière et on voir que anne est parent de filip. Pierre est parent de filip, filip n'est pas anne et michel est bien décédé.

@@ -1,0 +1,1 @@
+money(T,P,E2,E1,E50,E20,E10,Mod2):- ToGive is T-P, Mod2 is ToGive mod 200.

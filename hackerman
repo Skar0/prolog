@@ -1,0 +1,9 @@
+hacker(0,N,R) :- R is N+1.
+hacker(M,N,R) :- M>0, N=0, P is M-1, hacker(P,1,R).
+hacker(M,N,R) :- 
+M>0, 
+N>0, 
+P is M-1, 
+Q is N-1, 
+hacker(M,Q,RES),
+hacker(P,RES,R).
